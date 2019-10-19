@@ -1,0 +1,8 @@
+{
+  "body": "{\"productId\":\"2\",\"content\":\"hello world\",\"title\":\"First test review\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "TestUser1234"
+    }
+  }
+}
